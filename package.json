@@ -1,5 +1,5 @@
 {
-  "name": "sentia.bs.tape",
+  "name": "bs-sentia-tape",
   "version": "0.2.0",
   "scripts": {
     "clean": "bsb -clean-world",
